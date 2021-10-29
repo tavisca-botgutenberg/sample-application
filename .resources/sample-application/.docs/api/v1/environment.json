@@ -9,7 +9,7 @@
 			"type": "stage"
 		},
 		{
-			"baseUrl": "https://hotel.stage.cnxloyalty.com",
+			"baseUrl": "https://hotel.cnxloyalty.com",
 			"type": "prod"
 		}
 	]		
